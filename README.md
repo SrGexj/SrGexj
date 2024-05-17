@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juan Antonio, known as "Juano" to those close to me or "Gexj" on the internet.</h1>
-<h3 align="center">I'm a technology and computer enthusiast. I started getting interested in computers at an early age and I assembled my first "gaming" computer at the age of 12. From then until now I've been self-taught and today I'm a UI/UX and Frontend Developer, they call it "Creative Developer". Keep scrolling to learn more about me!</h3>
+<h1 align="left">Hi 👋, I'm Juan Antonio, known as "Juano" to those close to me or "Gexj" on the internet.</h1>
+<h3 align="left">I'm a technology and computer enthusiast. I started getting interested in computers at an early age and I assembled my first "gaming" computer at the age of 12. From then until now I've been self-taught and today I'm a UI/UX and Frontend Developer, they call it "Creative Developer". Keep scrolling to learn more about me!</h3>
 
 - 🔭 I’m currently working on **my portfolio!**
 
