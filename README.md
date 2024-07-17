@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [gexj.es](https://gexj.es)
 
-- 📝 I regularly write articles on [gexj.es/blog](https://gexj.es/blog)
-
 - 📫 How to reach me **info@gexj.es**
 
 <h3 align="left">Connect with me:</h3>
