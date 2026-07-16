@@ -3,8 +3,6 @@
 
 - 🔭 I'm currently working on **[my portfolio!](https://gexj.es)**
 
-- 🌱 I'm currently learning **Node.js, gsap, js frameworks
-
 - 👨‍💻 All of my projects are available at [gexj.es](https://gexj.es)
 
 - 📫 How to reach me **info@gexj.es**
