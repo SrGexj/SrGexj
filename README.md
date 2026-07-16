@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently working on **[my portfolio!](https://gexj.es)**
 
-- 🌱 I'm currently learning **Node.js, gsap, js frameworks, PHP and Laravel**
+- 🌱 I'm currently learning **Node.js, gsap, js frameworks
 
 - 👨‍💻 All of my projects are available at [gexj.es](https://gexj.es)
 
